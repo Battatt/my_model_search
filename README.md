@@ -316,3 +316,4 @@ branch1: line2
 branch1: line3
 extra-line
 extra-line
+extra-line
